@@ -2790,6 +2790,11 @@
   "resolved" "https://registry.npmjs.org/@types/get-port/-/get-port-3.2.0.tgz"
   "version" "3.2.0"
 
+"@types/gh-pages@^3.2.1":
+  "integrity" "sha512-y5ULkwfoOEUa6sp2te+iEODv2S//DRiKmxpeXboXhhv+s758rSSxLUiBd6NnlR7aAY4nw1X4FGovLrSWEXWLow=="
+  "resolved" "https://registry.npmjs.org/@types/gh-pages/-/gh-pages-3.2.1.tgz"
+  "version" "3.2.1"
+
 "@types/glob@*", "@types/glob@^5.0.34":
   "integrity" "sha512-ATA/xrS7CZ3A2WCPVY4eKdNpybq56zqlTirnHhhyOztZM/lPxJzusOBI3BsaXbu6FrUluqzvMlI4sZ6BDYMlMg=="
   "resolved" "https://registry.npmjs.org/@types/glob/-/glob-5.0.37.tgz"
